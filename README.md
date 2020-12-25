@@ -7,7 +7,7 @@ Automate Identification &amp; Recognition of Handwritten Text from an Image
 
 Dataset Used Link: https://drive.google.com/drive/folders/15lYLOpxkuqrdA3KVOaNg2XSeUIBJOYcI?usp=sharing
 
-Model Developed Link: https://drive.google.com/drive/folders/1cIJbGsBtSuvxnoDPluyIH8wlAAJzVvlo?usp=sharing
+Model Developed Link: https://drive.google.com/drive/folders/1x9ujE6XXiCr3rD7WmyMTUd3lpfTjbWEc?usp=sharing
 
 IAM Dataset Master Link: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
 
